@@ -1,4 +1,5 @@
 function computePerimeterOfACircle(radius) {
-  // your code here
+    // your code here
+    return 2 * Math.PI * radius
 
 }
